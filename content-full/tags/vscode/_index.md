@@ -9,5 +9,5 @@ resources:
   params:
     alt: Logo of Visual Studio Code
     container: "no"
-    size: tiny
+    width: tiny
 ---

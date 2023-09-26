@@ -11,5 +11,5 @@ resources:
     attr: SVG by Pablo Busatto
     attrlink:
     container: "no"
-    size: tiny
+    width: tiny
 ---

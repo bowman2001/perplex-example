@@ -9,7 +9,7 @@ resources:
     link: https://browserstack.com
     container: "footer"
     svg: "file"
-    size: small
+    width: small
 - src: sonarcloud-logo.svg
   name: sonarcloud
   params:
@@ -17,7 +17,7 @@ resources:
     link: https://sonarcloud.io
     container: "footer"
     svg: "file"
-    size: small
+    width: small
 - src: wavelogo.svg
   name: wave
   params:
@@ -25,7 +25,7 @@ resources:
     link: https://wave.webaim.org
     container: "footer"
     svg: "file"
-    size: small
+    width: small
 weight: 50  
 ---
 [HTML-Proofer](https://github.com/gjtorikian/html-proofer), [Sonarcloud](https://sonarcloud.io/project/overview?id=bowman2001_perplex), [Wave](https://wave.webaim.org) and

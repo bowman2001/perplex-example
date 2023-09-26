@@ -9,7 +9,7 @@ resources:
     link: https://github.com/bowman2001/perplex
     container: "footer"
     svg: "file"
-    size: small
+    width: small
 weight: 10
 ---
 

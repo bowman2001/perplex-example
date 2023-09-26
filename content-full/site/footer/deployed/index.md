@@ -10,7 +10,7 @@ resources:
     link: https://netlify.com
     container: "footer"
     svg: "file"
-    size: small
+    width: small
 - src: GitHub.svg
   name: github
   title: GitHub logo
@@ -20,7 +20,7 @@ resources:
     linklabel: GitHub
     container: "footer"
     svg: inline
-    size: small
+    width: small
 weight: 40
 ---
 
