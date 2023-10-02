@@ -38,7 +38,7 @@ For the Markdown syntax see [basic image](https://perplex.desider.at/doc/basic/i
 
 ## Small width
 
-![Small placeholder image in portrait ratio](small-left)
+![Small placeholder image in portrait ratio](small-left?ratio=0.75)
 
 {{% pangram 17 %}}
 {.placeholder data-pagefind-ignore="all"}
