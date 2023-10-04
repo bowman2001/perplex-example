@@ -5,7 +5,7 @@ description: Demo for enhanced block images
 date: 2023-03-27T12:02:10+02:00
 categories: [Markdown]
 tags: [image, block]
-series: [demo]
+series: [images]
 ---
 
 Demo for enhanced images and their layout possibilities.
